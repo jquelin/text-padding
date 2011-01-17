@@ -119,7 +119,7 @@ Hence this module, which aims to provide only those 3 methods.
 
 =head1 SEE ALSO
 
-L<Text::Reform>, L<Perl6::Form>.
+L<Text::Reform>, L<Perl6::Form>, L<Text::Truncate>.
 
 
 You can also look for information on this module at:
